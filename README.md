@@ -1,3 +1,3 @@
 # git-demo
 this is my first project
-Author Siddesh Mali
+Author Siddesh Sachin Mali
